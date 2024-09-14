@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1726301084571,1574,Home Page,200,OK,线程组 1-2,text,true,,21863,242,5,5,https://jmeter.apache.org/,460,0,223
+1726301084571,460,Home Page-0,301,Moved Permanently,线程组 1-2,,true,,321,121,5,5,http://jmeter.apache.org/,460,0,223
+1726301085031,1114,Home Page-1,200,OK,线程组 1-2,text,true,,21542,121,5,5,https://jmeter.apache.org/,1077,0,817
+1726301084408,1769,Home Page,200,OK,线程组 1-1,text,true,,21865,242,5,5,https://jmeter.apache.org/,459,0,230
+1726301084408,461,Home Page-0,301,Moved Permanently,线程组 1-1,,true,,323,121,5,5,http://jmeter.apache.org/,459,0,230
+1726301084878,1299,Home Page-1,200,OK,线程组 1-1,text,true,,21542,121,5,5,https://jmeter.apache.org/,1242,0,981
+1726301084774,1613,Home Page,200,OK,线程组 1-3,text,true,,21865,242,5,5,https://jmeter.apache.org/,520,0,264
+1726301084774,520,Home Page-0,301,Moved Permanently,线程组 1-3,,true,,321,121,5,5,http://jmeter.apache.org/,520,0,264
+1726301085294,1093,Home Page-1,200,OK,线程组 1-3,text,true,,21544,121,5,5,https://jmeter.apache.org/,1051,0,802
+1726301084977,1604,Home Page,200,OK,线程组 1-4,text,true,,21867,242,5,5,https://jmeter.apache.org/,507,0,260
+1726301084977,507,Home Page-0,301,Moved Permanently,线程组 1-4,,true,,323,121,5,5,http://jmeter.apache.org/,507,0,260
+1726301085485,1096,Home Page-1,200,OK,线程组 1-4,text,true,,21544,121,5,5,https://jmeter.apache.org/,1055,0,782
+1726301085180,1584,Home Page,200,OK,线程组 1-5,text,true,,21863,242,5,5,https://jmeter.apache.org/,534,0,253
+1726301085180,534,Home Page-0,301,Moved Permanently,线程组 1-5,,true,,321,121,5,5,http://jmeter.apache.org/,534,0,253
+1726301085715,1049,Home Page-1,200,OK,线程组 1-5,text,true,,21542,121,5,5,https://jmeter.apache.org/,1007,0,768
+1726301086147,848,Changes,200,OK,线程组 1-2,text,true,,31848,266,5,5,https://jmeter.apache.org/changes.html,535,0,270
+1726301086147,535,Changes-0,301,Moved Permanently,线程组 1-2,,true,,335,133,5,5,http://jmeter.apache.org/changes.html,535,0,270
+1726301086682,313,Changes-1,200,OK,线程组 1-2,text,true,,31513,133,5,5,https://jmeter.apache.org/changes.html,226,0,0
+1726301086177,870,Changes,200,OK,线程组 1-1,text,true,,31848,266,5,5,https://jmeter.apache.org/changes.html,535,0,274
+1726301086177,535,Changes-0,301,Moved Permanently,线程组 1-1,,true,,335,133,5,5,http://jmeter.apache.org/changes.html,535,0,274
+1726301086713,334,Changes-1,200,OK,线程组 1-1,text,true,,31513,133,5,5,https://jmeter.apache.org/changes.html,233,0,0
+1726301086388,817,Changes,200,OK,线程组 1-3,text,true,,31850,266,5,5,https://jmeter.apache.org/changes.html,506,0,260
+1726301086388,506,Changes-0,301,Moved Permanently,线程组 1-3,,true,,335,133,5,5,http://jmeter.apache.org/changes.html,506,0,260
+1726301086894,311,Changes-1,200,OK,线程组 1-3,text,true,,31515,133,5,5,https://jmeter.apache.org/changes.html,231,0,0
+1726301086581,817,Changes,200,OK,线程组 1-4,text,true,,31850,266,5,5,https://jmeter.apache.org/changes.html,464,0,235
+1726301086581,464,Changes-0,301,Moved Permanently,线程组 1-4,,true,,335,133,5,5,http://jmeter.apache.org/changes.html,464,0,235
+1726301087046,352,Changes-1,200,OK,线程组 1-4,text,true,,31515,133,5,5,https://jmeter.apache.org/changes.html,262,0,0
+1726301086764,854,Changes,200,OK,线程组 1-5,text,true,,31846,266,5,5,https://jmeter.apache.org/changes.html,511,0,253
+1726301086764,511,Changes-0,301,Moved Permanently,线程组 1-5,,true,,333,133,5,5,http://jmeter.apache.org/changes.html,511,0,253
+1726301087275,343,Changes-1,200,OK,线程组 1-5,text,true,,31513,133,5,5,https://jmeter.apache.org/changes.html,254,0,0
+1726301086995,776,Home Page,200,OK,线程组 1-2,text,true,,21863,242,5,5,https://jmeter.apache.org/,471,0,228
+1726301086995,471,Home Page-0,301,Moved Permanently,线程组 1-2,,true,,321,121,5,5,http://jmeter.apache.org/,471,0,228
+1726301087466,305,Home Page-1,200,OK,线程组 1-2,text,true,,21542,121,5,5,https://jmeter.apache.org/,294,0,0
+1726301087047,843,Home Page,200,OK,线程组 1-1,text,true,,21863,242,5,5,https://jmeter.apache.org/,523,0,262
+1726301087047,523,Home Page-0,301,Moved Permanently,线程组 1-1,,true,,321,121,5,5,http://jmeter.apache.org/,523,0,262
+1726301087570,320,Home Page-1,200,OK,线程组 1-1,text,true,,21542,121,5,5,https://jmeter.apache.org/,310,0,0
+1726301087205,817,Home Page,200,OK,线程组 1-3,text,true,,21865,242,5,5,https://jmeter.apache.org/,503,0,265
+1726301087205,503,Home Page-0,301,Moved Permanently,线程组 1-3,,true,,321,121,5,5,http://jmeter.apache.org/,503,0,265
+1726301087708,314,Home Page-1,200,OK,线程组 1-3,text,true,,21544,121,5,5,https://jmeter.apache.org/,305,0,0
+1726301087398,786,Home Page,200,OK,线程组 1-4,text,true,,21865,242,5,5,https://jmeter.apache.org/,543,0,262
+1726301087398,543,Home Page-0,301,Moved Permanently,线程组 1-4,,true,,321,121,5,5,http://jmeter.apache.org/,543,0,262
+1726301087941,243,Home Page-1,200,OK,线程组 1-4,text,true,,21544,121,5,5,https://jmeter.apache.org/,231,0,0
+1726301087618,720,Home Page,200,OK,线程组 1-5,text,true,,21865,242,5,5,https://jmeter.apache.org/,416,0,218
+1726301087618,416,Home Page-0,301,Moved Permanently,线程组 1-5,,true,,323,121,5,5,http://jmeter.apache.org/,416,0,218
+1726301088034,304,Home Page-1,200,OK,线程组 1-5,text,true,,21542,121,5,5,https://jmeter.apache.org/,288,0,0
+1726301087771,681,Changes,200,OK,线程组 1-2,text,true,,31846,266,5,5,https://jmeter.apache.org/changes.html,398,0,194
+1726301087771,398,Changes-0,301,Moved Permanently,线程组 1-2,,true,,333,133,5,5,http://jmeter.apache.org/changes.html,398,0,194
+1726301088169,283,Changes-1,200,OK,线程组 1-2,text,true,,31513,133,5,5,https://jmeter.apache.org/changes.html,255,0,0
+1726301087891,956,Changes,200,OK,线程组 1-1,text,true,,31846,266,4,4,https://jmeter.apache.org/changes.html,417,0,195
+1726301087891,417,Changes-0,301,Moved Permanently,线程组 1-1,,true,,333,133,4,4,http://jmeter.apache.org/changes.html,417,0,195
+1726301088308,539,Changes-1,200,OK,线程组 1-1,text,true,,31513,133,4,4,https://jmeter.apache.org/changes.html,539,0,0
+1726301088022,826,Changes,200,OK,线程组 1-3,text,true,,31848,266,4,4,https://jmeter.apache.org/changes.html,478,0,253
+1726301088022,478,Changes-0,301,Moved Permanently,线程组 1-3,,true,,333,133,4,4,http://jmeter.apache.org/changes.html,478,0,253
+1726301088500,348,Changes-1,200,OK,线程组 1-3,text,true,,31515,133,4,4,https://jmeter.apache.org/changes.html,295,0,0
+1726301088185,767,Changes,200,OK,线程组 1-4,text,true,,31850,266,2,2,https://jmeter.apache.org/changes.html,479,0,236
+1726301088185,479,Changes-0,301,Moved Permanently,线程组 1-4,,true,,335,133,2,2,http://jmeter.apache.org/changes.html,479,0,236
+1726301088664,288,Changes-1,200,OK,线程组 1-4,text,true,,31515,133,2,2,https://jmeter.apache.org/changes.html,261,0,0
+1726301088338,871,Changes,200,OK,线程组 1-5,text,true,,31848,266,1,1,https://jmeter.apache.org/changes.html,491,0,236
+1726301088338,491,Changes-0,301,Moved Permanently,线程组 1-5,,true,,335,133,1,1,http://jmeter.apache.org/changes.html,491,0,236
+1726301088829,380,Changes-1,200,OK,线程组 1-5,text,true,,31513,133,1,1,https://jmeter.apache.org/changes.html,322,0,0
